@@ -1,6 +1,6 @@
 name: PocketVote
 main: ProjectInfinity\PocketVote\PocketVote
-version: 3.0.3
+version: 3.0.4
 api: [4.0.0]
 author: ProjectInfinity
 permissions:
